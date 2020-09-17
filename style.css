@@ -1,4 +1,9 @@
-
-
-html, body { 
-back}
+body {
+  background-color: white;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: black;
+}
