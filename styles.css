@@ -2,15 +2,13 @@ body {
   background-color: white;
 }
 h1 {
-  color: white;
+  color: blue;
   font-size: 20;
-  background-color: black;
   text-align: center;
 }
 p {
+  margin: 50px
   color: black;
 }
-p{
-	border: 3px;
-	margin: 50px;
-}
+
+	
