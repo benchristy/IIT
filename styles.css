@@ -2,7 +2,8 @@ body {
   background-color: white;
 }
 h1 {
-  color: blue;
+  color: blue
+  background-color: black;
 }
 p {
   color: black;
