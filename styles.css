@@ -11,5 +11,6 @@ h2 {
 	text-decoration: underline;
 text-underline-position: span;
 } 
-p.arial;
-<p style="font-family:courier;">
+p{
+	font-size-adjust: 150%;
+}
