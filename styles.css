@@ -8,9 +8,6 @@ h1 {
 h2 {
 	font-size: 20;
 	color: blue;
-	text-decoration: underline;
+	
 text-underline-position: span;
 } 
-p{ font-style: "font-style:Arial;""font-size:14;"	
-
-}
