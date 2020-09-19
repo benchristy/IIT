@@ -9,5 +9,5 @@ h2 {
 	font-size: 20;
 	color: blue;
 	text-decoration: underline;
-
+text-underline-position: span;
 }
